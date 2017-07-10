@@ -1,0 +1,10 @@
+Line 51: Class osenxpsuite2005.OsenXPDTPicker of control dtpickCheckIn was not a loaded control class.
+Line 143: Class XPControls.XPCombo of control xpcboExtendTime was not a loaded control class.
+Line 186: Class XPControls.XPButton of control xpbtRemove was not a loaded control class.
+Line 221: Class XPControls.XPButton of control xpbtAdd was not a loaded control class.
+Line 288: Class XPControls.XPButton of control xpbtClear was not a loaded control class.
+Line 307: Class XPControls.XPButton of control xpbtConfirm was not a loaded control class.
+Line 326: Class osenxpsuite2005.OsenXPDTPicker of control dtpickCheckOut was not a loaded control class.
+Line 349: Class XPControls.XPCombo of control xpcboRoomNumber was not a loaded control class.
+Line 368: Class XPControls.XPCombo of control xpcboRoomType was not a loaded control class.
+Line 436: Class XPControls.XPButton of control xpbtBack was not a loaded control class.

@@ -1,0 +1,19 @@
+INTRUCTIONS
+
+
+1. Copy the FILES from the COMPONENTS FOLDER to this PATH
+	for 32 bit OPERATING SYSTEM	
+	     "C:\Windows\System32\"
+	for 64 bit OPEATING SYSTEM
+      	     "C:\Windows\SysWOW64\"
+
+2. RUN the file as ADMINISTRATOR :
+	for 32 bit OPERATING SYSTEM	
+	     "RegOCX_32bit"
+	for 64 bit OPERATING SYSTEM
+	     "RegOCX_64bit"
+
+3. RESTART YOUR COMPUTER
+4. OPEN YOUR VB6
+5. ADD COMPONENTS "ButtonXP", "Candy", "XP style controls", "XP_ProBar"
+6. ENJOY!!!

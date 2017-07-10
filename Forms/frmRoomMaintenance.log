@@ -1,0 +1,16 @@
+Line 19: Class XPControls.XPFrame of control XPFrame3 was not a loaded control class.
+Line 105: Class XPControls.XPButton of control cmdSaveRate was not a loaded control class.
+Line 125: Class XPControls.XPButton of control cmdCancelRate was not a loaded control class.
+Line 145: Class XPControls.XPButton of control cmdEditRate was not a loaded control class.
+Line 164: Class XPControls.XPCombo of control cboRoomType2 was not a loaded control class.
+Line 269: Class XPControls.XPButton of control cmdBAck was not a loaded control class.
+Line 288: Class XPControls.XPFrame of control XPFrame2 was not a loaded control class.
+Line 306: Class XPControls.XPCombo of control cboRoomType was not a loaded control class.
+Line 341: Class XPControls.XPButton of control cmdSave was not a loaded control class.
+Line 360: Class XPControls.XPButton of control cmdCancel was not a loaded control class.
+Line 379: Class XPControls.XPButton of control cmdAdd was not a loaded control class.
+Line 398: Class XPControls.XPButton of control cmdEdit was not a loaded control class.
+Line 452: Class XPControls.XPFrame of control XPFrame1 was not a loaded control class.
+Line 486: Class XPControls.XPButton of control cmdOk was not a loaded control class.
+Line 505: Class XPControls.XPCombo of control cboViewBy was not a loaded control class.
+Line 524: Class XPControls.XPButton of control cmdViewAll was not a loaded control class.

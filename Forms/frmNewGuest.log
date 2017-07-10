@@ -1,0 +1,5 @@
+Line 16: Class XPControls.XPButton of control cmdSave was not a loaded control class.
+Line 35: Class XPControls.XPCombo of control cboGStatus was not a loaded control class.
+Line 54: Class XPControls.XPCombo of control cboGSex was not a loaded control class.
+Line 277: Class XPControls.XPButton of control cmdClear was not a loaded control class.
+Line 296: Class XPControls.XPButton of control cmdBack was not a loaded control class.
